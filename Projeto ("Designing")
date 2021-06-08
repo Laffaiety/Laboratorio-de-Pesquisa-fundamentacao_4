@@ -1,0 +1,3 @@
+O design atual foi realizado na área de escape, onde terão os portais a loja do game e a área de tutorias.
+A área de residências ainda não estão completas, mas ja foi implementado algumas paredes para testar a oclusão do restante do ambiente dependendo a orientação.
+Toda a parte de cenário ainda é teste, melhorias serão feitas nos trabalhos posteriores.
